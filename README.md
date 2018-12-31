@@ -1,2 +1,0 @@
-# MadMinutesReact
-Created with CodeSandbox
